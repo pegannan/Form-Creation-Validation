@@ -11,7 +11,8 @@ async function fetchUserData() {
         });;
 
         dataContainer.innerHTML = ''
-
+        ["appendChild"] 
+        document.createElement
         const userList = <ul><li></li></ul>
 
     catch{
