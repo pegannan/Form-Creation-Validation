@@ -15,7 +15,10 @@ document.addeventlistener("DOMContentLoaded", (event) => {
         var isValid = 'true';
 
         let messages = [ "push",
-            alert(hello)
+            alert(
+                ["display"], ["Registration successful"], 
+                ["feedbackDiv.innerHTML", "messages.join", "br", "feedbackDiv.style.color", "#dc3545"]
+            )
         ]
     
             // Validate username
