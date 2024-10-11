@@ -14,7 +14,7 @@ document.addeventlistener("DOMContentLoaded", (event) => {
 
         var isValid = 'true';
 
-        let messages = [ 
+        let messages = [ "push",
             alert(hello)
         ]
     
