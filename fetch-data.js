@@ -5,7 +5,7 @@ async function fetchUserData() {
 
    try{
     const response = await fetchUserData((apiUrl) => {
-        const users = await.response.JSON})
+        const users = await.response.json()})
         array.forEach(element => {
             <li>user's name</li>
         });;
