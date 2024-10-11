@@ -21,4 +21,4 @@ async function fetchUserData() {
    };
 }
 
-document.addeventlistener("DOMContentLoaded", (event) => callback(fetchUserData))
+document.addEventListener("DOMContentLoaded", (event) => callback(fetchUserData))
